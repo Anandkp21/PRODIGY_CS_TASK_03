@@ -35,7 +35,7 @@ The Password Strength Assessment Tool checks the strength of a password by evalu
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/password-strength-tool.git
+   git clone https://github.com/Anandkp21/PRODIGY_CS_TASK_03.git
    ```
 
 2. **Navigate to the project directory:**
@@ -45,7 +45,7 @@ The Password Strength Assessment Tool checks the strength of a password by evalu
 
 3. **Run the tool:**
    ```sh
-   python password_strength_tool.py
+   python PassChecker.py
    ```
 
 ## Usage
