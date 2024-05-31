@@ -65,14 +65,14 @@ The Password Strength Assessment Tool checks the strength of a password by evalu
 
 ### Running the Password Strength Assessment Tool
 ```sh
-$ python password_strength_tool.py
+$ python PassChecker.py
 Enter your password: ExamplePassword123!
 Password is strong.
 ```
 
 ### Weak Password Example
 ```sh
-$ python password_strength_tool.py
+$ python PassChecker.py
 Enter your password: weakpass
 Password should be at least 8 characters long.
 Password should contain both uppercase and lowercase letters.
