@@ -52,7 +52,7 @@ The Password Strength Assessment Tool checks the strength of a password by evalu
 
 1. **Run the password strength assessment tool:**
    ```sh
-   python password_strength_tool.py
+   python PassChecker.py
    ```
 
 2. **Enter your password:**
